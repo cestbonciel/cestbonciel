@@ -1,6 +1,6 @@
 
 <div align="center">
-   # 🛠 Tech Stack 💻
+  # Tech Stack 💻
 
 
 ![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cestbonciel&show_icons=true&theme=radical)
