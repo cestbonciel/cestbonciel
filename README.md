@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
  <br/>
 <a href="https://developer.apple.com/kr/swift/" target="_blank"><img src="https://img.shields.io/badge/swift-ffffff?style=for-the-badge&logo=Swift&logoColor=#F05138"></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Azure DevOps-3766AB?style=flat-square&logo=Azure DevOps&logoColor=white"/>
  <a href="https://garrulous-chanter-4ba.notion.site/Shyun-Cloud-AI-iOS-mobile-aa785e648db64686b1260f66afb2438d" target="_blank"><img src="https://img.shields.io/badge/Notion-3766AB?style=flat-square&logo=Notion&logoColor=white"/></a>
 <!--  <a href="https://garrulous-chanter-4ba.notion.site/Swift-IOS-54af7048cb114ceea3e0c00fb4a1e0fc" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=#F05138"></a> -->
