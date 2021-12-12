@@ -8,7 +8,7 @@
 
 ![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cestbonciel&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel)](https://github.com/cestbonciel/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&hide=javascript,html,php)](https://github.com/cestbonciel/github-readme-stats)
 <a href="https://developer.apple.com/kr/swift/" target="_blank"><img src="https://img.shields.io/badge/swift-ffffff?style=for-the-badge&logo=Swift&logoColor=#F05138"></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Azure DevOps-3766AB?style=flat-square&logo=Azure DevOps&logoColor=white"/>
