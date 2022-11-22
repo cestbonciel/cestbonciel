@@ -6,10 +6,10 @@
 
 
 
-![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cestbonciel&show_icons=true&theme=radical)
+<!-- ![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cestbonciel&show_icons=true&theme=radical) -->
  <br/>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel)](https://github.com/cestbonciel/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats) -->
  <br/>
 <a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-3766AB?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/>
