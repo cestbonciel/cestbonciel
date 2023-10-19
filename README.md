@@ -31,6 +31,10 @@
 <a href="#"><img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=EA4E31"/></a>
 
  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /></div>
+<br/>
+<hr class="solid">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
 
 </div>
 </html>
