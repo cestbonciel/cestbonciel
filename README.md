@@ -5,9 +5,20 @@
 <div align="center">  <h1>🛠 iOS 개발자 - 김서현 💻</h1> </div>
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23497AFF&icon=github.svg&icon_color=%23FFF6A1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
  <ul align="left">
-        <li>개발 기술에 대해 학습하고, 알아가는 걸 좋아합니다.</li>
-        <li>iOS 개발자로서 <strong style='background-color:#F7DDBE'>협업이 가능한 친절하고 명확한 코드</strong> 짜는 것을 고민합니다.</li>
-        <li>미술 외 디자인과 같은 시각적인 요소에 관심이 많습니다. <br/>모바일의 UIUX 측면에서도 <strong>사용자의 편의성과 주로 사용하는 동작 등을 고려</strong>해 모바일 앱을 만들려고 합니다.</li>
+        <li>
+         개발 기술에 대해 학습하고, 알아가는 걸 좋아합니다. <br>
+         <i>I enjoy learning and exploring development technologies.</i>
+        </li>
+        <li>
+         iOS 개발자로서 <strong style='background-color:#F7DDBE'>협업이 가능한 친절하고 명확한 코드</strong> 짜는 것을 고민합니다.<br>
+         <i>As an iOS developer, I am focused on writing friendly and clear code that can facilitate collaboration.</i>
+        </li>
+        <li>
+         미술 외 디자인과 같은 시각적인 요소에 관심이 많습니다. <br/>
+         <i>I have a keen interest in visual elements like art and design.</i> <br>
+         모바일의 UIUX 측면에서도 <strong>사용자의 편의성과 주로 사용하는 동작 등을 고려</strong>해 모바일 앱을 만들려고 합니다.<br>
+         <i>I try to create a mobile app considering user convenience and commonly used actions from the perspective of mobile UI/UX.</i>
+        </li>
     </ul>
 <div align="center">
 
