@@ -34,7 +34,7 @@
 
 <h3>Main Tech Stack</h3>
 <a href="https://developer.apple.com/kr/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-066FFD?style=for-the-badge&logo=Swift&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=Swift&logoColor=white"/></a>
+<a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift(UIKit)-orange?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=EA4E31"/></a>
  <br/>
 <h3>Extra Tech Stack</h3>
