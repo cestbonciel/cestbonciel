@@ -37,13 +37,12 @@
 <a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift(UIKit)-orange?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=EA4E31"/></a>
  <br/>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /></div>
 <h3>Extra Tech Stack</h3>
 <a href="[HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
 <a href="[CSS3]([https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics))" target="_blank"><img src="https://img.shields.io/badge/CSS3-3595D0?style=for-the-badge&logo=CSS3&logoColor=white"></a>
  <a href="https://kimseohyun.notion.site/Shyun-Cloud-AI-iOS-mobile-aa785e648db64686b1260f66afb2438d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-
- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /></div>
 <br/>
 <hr class="solid">
 
