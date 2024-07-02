@@ -11,6 +11,16 @@ Continuous for Development, design oriented towards UI/UX, Places emphasis on co
 <a href="https://developer.apple.com/kr/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-066FFD?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift(UIKit)-orange?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-d5d5d5?style=for-the-badge&logo=git&logoColor=EA4E31"/></a>
+
+<h3>Extra Tech Stack</h3>
+<a href="[HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+<a href="[CSS3]([https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics))" target="_blank"><img src="https://img.shields.io/badge/CSS3-3595D0?style=for-the-badge&logo=CSS3&logoColor=white"></a>
+ <a href="https://kimseohyun.notion.site/Shyun-Cloud-AI-iOS-mobile-aa785e648db64686b1260f66afb2438d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
+<br/>
+<hr class="solid">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
 </div>
 
 ## Side Project
@@ -36,6 +46,11 @@ An iOS app for real-time movie rankings, random recommendations, and writing dia
   - Learning about UI/UX constraints and considerations required when using Storyboard.
   - Studying Autolayout code necessary for implementing in the codebase and debugging warnings for unsatisfiable layouts.
 
+## Certificate
+> *2023.06.09*
+- Engineer Information Processing(정보처리기사) in Korea, Republic of
+> *2021.07.09*
+- Craftman Web Design(웹디자인기능사) in Korea, Republic of
 
   
 ## Activity
@@ -59,13 +74,8 @@ Writing Club for Technical Writing with various development fields, Geultto(글�
 글또 글쓰기 세미나 <br>
 [나의 글쓰기 도식화 파이프라인 및 정보](https://playground-coding.tistory.com/99)
 </div>
-<details>
+<!-- <details> -->
  
-## Certificate
-> *2023.06.09*
-- Engineer Information Processing(정보처리기사) in Korea, Republic of
-> *2021.07.09*
-- Craftman Web Design(웹디자인기능사) in Korea, Republic of
 
 
 
@@ -79,15 +89,7 @@ Writing Club for Technical Writing with various development fields, Geultto(글�
  <br/>
 
 
-<h3>Extra Tech Stack</h3>
-<a href="[HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
-<a href="[CSS3]([https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/CSS_basics))" target="_blank"><img src="https://img.shields.io/badge/CSS3-3595D0?style=for-the-badge&logo=CSS3&logoColor=white"></a>
- <a href="https://kimseohyun.notion.site/Shyun-Cloud-AI-iOS-mobile-aa785e648db64686b1260f66afb2438d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-<br/>
-<hr class="solid">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
 
 </div>
 </html>
