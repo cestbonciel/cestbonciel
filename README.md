@@ -25,11 +25,11 @@ Continuous learning for Development, design oriented towards UI/UX, Places empha
 
 ## Side Project
 **[Sound Log(소리의 기록)](https://apps.apple.com/kr/app/%EC%86%8C%EB%A6%AC%EC%9D%98-%EA%B8%B0%EB%A1%9D/id6479898076)**<br>
-An iOS app that records sounds heard daily or on special occasions, along with emotions, locations, and other details.
-
+An iOS app that records sounds heard daily or on special occasions, along with emotions, locations, and other details.<br>
+The iOS app Sound Log, which I developed as a personal project
 **[LogVie](https://github.com/cestbonciel/logvie-front)**<br>
 An iOS app for real-time movie rankings, random recommendations, and writing diaries about movies.
-
+The iOS app Sound Log, which I developed as a team project
 ## Education 
 > 2024.03 ~ ing(Expected graduation in February 2026)
 - **Transferring to the 3rd year of Computer Science at Korea National Open University(KNOU, 한국방송통신대)**<br>
