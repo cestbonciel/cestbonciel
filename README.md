@@ -56,7 +56,7 @@ The iOS app Sound Log, which I developed as a team project
   
 ## Activity
 > 2023.11 - 2024.05(6 months)
-Writing Club for Technical Writing with various development fields, Geultto(글또)
+- Writing Club for Technical Writing with various development fields, 글또(Geultto)
 
 <details>
 <summary>Technical Posting as korean in Geultto </summary>
