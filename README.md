@@ -32,7 +32,7 @@ An iOS app for real-time movie rankings, random recommendations, and writing dia
 
 ## Education 
 > 2024.03 ~ ing(Expected graduation in February 2026)
-- **Transferring to the 3rd year of Computer Science at Korea National Open University**<br>
+- **Transferring to the 3rd year of Computer Science at Korea National Open University(KNOU, 한국방송통신대)**<br>
   - Studying computer engineering knowledge including operating systems, various programming languages, and database systems.
 > 2024.01.01 ~ 2024.03(2months)
 - **Allen Swift Master for 2 months**
