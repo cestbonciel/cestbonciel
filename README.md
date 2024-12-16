@@ -7,6 +7,13 @@
 
 ## About Me
 Continuous learning for Development, design oriented towards UI/UX, Places emphasis on communication with team member
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/cestbonciel"
+  width="600"
+  height="300"
+/>
+</a>
 <div align="center">
 <a href="https://developer.apple.com/kr/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-066FFD?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift(UIKit)-orange?style=for-the-badge&logo=Swift&logoColor=white"/></a>
