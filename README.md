@@ -31,10 +31,12 @@ Continuous learning for Development, design oriented towards UI/UX, Places empha
 </div>
 
 ## Side Project
-**[Momentrack(모멘트랙)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%A9%98%ED%8A%B8%EB%9E%99/id6535687021)**<br>
+**[Momentrack(모멘트랙)](https://github.com/Momentrack/Momentrack)**<br>
+(It has been temporarily suspended on the App Store due to developer account fee issues.) <br>
 We used to visit places everywhere. However, we often forgot about the locations and the memories. We wanted to record the places we visited, whether we went alone or with others. This can also be easily shared with others.<br>
 
-**[Sound Log(소리의 기록)](https://apps.apple.com/kr/app/%EC%86%8C%EB%A6%AC%EC%9D%98-%EA%B8%B0%EB%A1%9D/id6479898076)**<br>
+**[Sound Log(소리의 기록)](https://github.com/cestbonciel/SoundLog)**<br>
+(It has been temporarily suspended on the App Store due to developer account fee issues.)<br>
 An iOS app that records sounds heard daily or on special occasions, along with emotions, locations, and other details.<br>
 The iOS app Sound Log, which I developed as a personal project.<br> I handled the design, planning, and development all by myself.
 
@@ -58,53 +60,23 @@ The iOS app Sound Log, which I developed as a team project
   - Studying Autolayout code necessary for implementing in the codebase and debugging warnings for unsatisfiable layouts.
 
 ## Certificate
+> *2024.12.13*
+- SQLD(SQL Developer) in Korea, Republic of 
+  - The SQL developer exam assesses knowledge and practical skills in database object design and implementation, including SQL writing, performance optimization, and data modeling fundamentals.
 > *2023.06.09*
 - Engineer Information Processing(정보처리기사) in Korea, Republic of
+  - An exam that assesses knowledge in software development, including requirements analysis, database implementation, system integration, server programming, UI/UX design, application testing, SQL optimization, security, and software packaging.
 > *2021.07.09*
 - Craftman Web Design(웹디자인기능사) in Korea, Republic of
+  - A certification exam assessing practical skills in web page implementation and web page creation
 
   
 ## Activity
 > Nov 2024 - Apr 2025 (about 5 months)  
-- Technical Writing Club covering various development fields, 10th batch, **Geultto (글또)**  
-
+- Technical Writing Club covering various development fields, 10th batch, **Geultto (글또)**
+  
 > Nov 2023 - May 2024 (6 months)  
 - Technical Writing Club covering various development fields, 9th batch, **Geultto (글또)**
-
-
-<details>
-<summary>Technical Posting as korean in Geultto </summary>
-<div markdown=1> 
-
-[1. 2023 하반기 - 글또 9기 참여 다짐글](https://playground-coding.tistory.com/86)<br>
-[2. UISceneDelegate 에 대해 설명하세요](https://playground-coding.tistory.com/89)<br>
-[3. Udemy - 개발자 영어 강의](https://playground-coding.tistory.com/93)<br>
-[4. Xcode 단위 테스트, XCTest](https://playground-coding.tistory.com/96)<br>
-[5. 동시성을 대하는 Swift 의 자세](https://playground-coding.tistory.com/98)<br>
-[6. 내가 선택한 Realm의 성능](https://playground-coding.tistory.com/100)<br>
-[7. 알고리즘, 자료구조에 자신감 100스푼 얹어 준 코드트리](https://playground-coding.tistory.com/101)<br>
-[8. 유데미x글또: 플러터](https://playground-coding.tistory.com/104)<br>
-[9. 2024년 상반기 회고, 글또 9기 마지막 글](https://playground-coding.tistory.com/106)<br>
-
-글또 글쓰기 세미나 <br>
-[나의 글쓰기 도식화 파이프라인 및 정보](https://playground-coding.tistory.com/99)
-</div>
-<!-- <details> -->
- 
-
-
-
-   
-
-
-<!-- ![Seohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cestbonciel&show_icons=true&theme=radical) -->
- <br/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel)](https://github.com/cestbonciel/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats) -->
- <br/>
-
-
-
 
 </div>
 </html>
