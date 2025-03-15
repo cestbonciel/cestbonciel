@@ -32,11 +32,11 @@ Continuous learning for Development, design oriented towards UI/UX, Places empha
 
 ## Side Project
 **[Momentrack(모멘트랙)](https://github.com/Momentrack/Momentrack)**<br>
-(It has been temporarily suspended on the App Store due to developer account fee issues.) <br>
+
 We used to visit places everywhere. However, we often forgot about the locations and the memories. We wanted to record the places we visited, whether we went alone or with others. This can also be easily shared with others.<br>
 
 **[Sound Log(소리의 기록)](https://github.com/cestbonciel/SoundLog)**<br>
-(It has been temporarily suspended on the App Store due to developer account fee issues.)<br>
+(App update in the works.)<br>
 An iOS app that records sounds heard daily or on special occasions, along with emotions, locations, and other details.<br>
 The iOS app Sound Log, which I developed as a personal project.<br> I handled the design, planning, and development all by myself.
 
