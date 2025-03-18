@@ -35,7 +35,7 @@ Continuous learning for Development, design oriented towards UI/UX, Places empha
 
 We used to visit places everywhere. However, we often forgot about the locations and the memories. We wanted to record the places we visited, whether we went alone or with others. This can also be easily shared with others.<br>
 
-**[Sound Log(소리의 기록)](https://github.com/cestbonciel/SoundLog)**<br>
+**[Sound Log(소리의 기록)](https://apps.apple.com/kr/app/%EC%86%8C%EB%A6%AC%EC%9D%98-%EA%B8%B0%EB%A1%9D/id6479898076?l=en-GB)**<br>
 (**App update in the works.**)<br>
 An iOS app that records sounds heard daily or on special occasions, along with emotions, locations, and other details.<br>
 The iOS app Sound Log, which I developed as a personal project.<br> I handled the design, planning, and development all by myself.
