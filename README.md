@@ -27,7 +27,7 @@ Continuous learning for Development, design oriented towards UI/UX, Places empha
 <br/>
 <hr class="solid">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact&hide=javascript,html,php,css)](https://github.com/cestbonciel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cestbonciel&layout=compact)](https://github.com/cestbonciel/github-readme-stats)
 </div>
 
 ## Side Project
