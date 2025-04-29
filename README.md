@@ -43,32 +43,6 @@ The iOS app Sound Log, which I developed as a personal project.<br> I handled th
 **[LogVie](https://github.com/cestbonciel/logvie-front)**<br>
 An iOS app for real-time movie rankings, random recommendations, and writing diaries about movies.
 The iOS app Sound Log, which I developed as a team project
-## Education 
-> 2024.03 ~ ing(Expected graduation in February 2026)
-- **Transferring to the 3rd year of Computer Science at Korea National Open University(KNOU, 한국방송통신대)**<br>
-  - Studying computer engineering knowledge including operating systems, various programming languages, and database systems.
-> 2024.01.01 ~ 2024.03(2months)
-- **Allen Swift Master for 2 months**
-  - Advanced study of memory management and asynchronous programming<br>
-> 2023.11.13 ~ 2023.12.15
-- **Code Starter @ Yagom Academy**<br>
-  - Learning basic computer science knowledge, function and class naming, Swift data types, etc
-  - Implementing step-by-step requirements using functions, instances, classes, and structures in code
-> 2023.09.25 ~ 2023.10.27
-- **Auto Layout for iOS @Yagom Academy**<br>
-  - Learning about UI/UX constraints and considerations required when using Storyboard.
-  - Studying Autolayout code necessary for implementing in the codebase and debugging warnings for unsatisfiable layouts.
-
-## Certificate
-> *2024.12.13*
-- SQLD(SQL Developer) in Korea, Republic of 
-  - The SQL developer exam assesses knowledge and practical skills in database object design and implementation, including SQL writing, performance optimization, and data modeling fundamentals.
-> *2023.06.09*
-- Engineer Information Processing(정보처리기사) in Korea, Republic of
-  - An exam that assesses knowledge in software development, including requirements analysis, database implementation, system integration, server programming, UI/UX design, application testing, SQL optimization, security, and software packaging.
-> *2021.07.09*
-- Craftman Web Design(웹디자인기능사) in Korea, Republic of
-  - A certification exam assessing practical skills in web page implementation and web page creation
 
   
 ## Activity
